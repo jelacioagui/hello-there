@@ -1,0 +1,25 @@
+html, #screen {
+    margin: 0;
+    background-color: yellow;
+    height: 100vh;
+    width: 100vw;;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.word1 {
+    text-transform: uppercase;
+    color: rgb(74, 144, 226);
+}
+
+.word2{
+    text-transform: lowercase;
+    color: #BC1919;
+}
